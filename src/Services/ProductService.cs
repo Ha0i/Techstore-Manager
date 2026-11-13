@@ -1,3 +1,5 @@
+// Валидация цен и остатков товаров!
+
 namespace TechStore.Services
 {
     public class ProductService
